@@ -15,4 +15,4 @@ Fifth-semester Informatics student at Universitas Multimedia Nusantara (UMN), fo
 ---
 [![](https://komarev.com/ghpvc/?username=nadiinea&icon=7&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/nadiinea/nadiinea/blob/output/github-snake.svg)
