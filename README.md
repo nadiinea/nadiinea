@@ -13,7 +13,7 @@ Fifth-semester Informatics student at Universitas Multimedia Nusantara (UMN), fo
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nadiinea&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=nadiinea&icon=7&color=12)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=nadiinea&icon=7&color=ff6c9d)](https://visitcount.itsvg.in)
 
 ![snake gif](https://github.com/nadiinea/nadiinea/blob/output/github-snake.svg)
 
