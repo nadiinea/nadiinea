@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Fifth-semester Informatics student at Universitas Multimedia Nusantara (UMN), focused on software development and UI/UX design.<br><br>- 🌱 Currently learning: Mobile Application Programming,  Next.js, Typescript<br>- 💬 Ask me about: React.js, Figma, UI/UX design<br>- 📫 Reach me: [naadiinea@gmail.com](mailto:naadiinea@gmail.com) | [LinkedIn](https://linkedin.com/in/nadine-angeline)
+Fifth-semester Informatics student at Universitas Multimedia Nusantara (UMN), focused on software development and UI/UX design. Reach me: [naadiinea@gmail.com](mailto:naadiinea@gmail.com) | [LinkedIn](https://linkedin.com/in/nadine-angeline)
 
 <div align="center">
 
